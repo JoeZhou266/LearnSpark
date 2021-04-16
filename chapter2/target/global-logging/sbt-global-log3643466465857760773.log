@@ -1,0 +1,9 @@
+[debug] > Exec({file:/C:/Users/Joe/IdeaProjects/Scala/LearnSpark/chapter2/}chapter2/compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Joe\IdeaProjects\Scala\LearnSpark\chapter2\target\scala-2.12\classes ...
+[info] done compiling
+[success] Total time: 1 s, completed 8-Apr-2021 6:36:50 AM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

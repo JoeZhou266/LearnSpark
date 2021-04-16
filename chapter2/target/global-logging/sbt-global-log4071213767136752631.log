@@ -1,0 +1,8 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+[info] compiling 2 Scala sources to C:\Users\Joe\IdeaProjects\Scala\LearnSpark\chapter2\target\scala-2.12\classes ...
+[info] done compiling
+[success] Total time: 8 s, completed 9-Apr-2021 8:43:03 PM
+[debug] > Exec(idea-shell, None, None)
